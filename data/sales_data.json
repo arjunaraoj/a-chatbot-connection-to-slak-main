@@ -1,0 +1,72 @@
+[
+  {
+    "Month": 2,
+    "Year": 2025,
+    "CustomerName": "Carlos Gomez",
+    "AgeGroup": "Adult",
+    "Gender": "Male",
+    "Category": "Furniture",
+    "ProductName": "Desk",
+    "Country": "Canada",
+    "RegionName": "North America",
+    "SalesAmount": 1450.08,
+    "Quantity": 4,
+    "flag": "JSON"
+  },
+  {
+    "Month": 2,
+    "Year": 2025,
+    "CustomerName": "Steven White",
+    "AgeGroup": "Adult",
+    "Gender": "Male",
+    "Category": "Furniture",
+    "ProductName": "Desk",
+    "Country": "USA",
+    "RegionName": "North America",
+    "SalesAmount": 1582.70,
+    "Quantity": 1,
+    "flag": "JSON"
+  },
+  {
+    "Month": 3,
+    "Year": 2024,
+    "CustomerName": "Marie Curie",
+    "AgeGroup": "Senior",
+    "Gender": "Female",
+    "Category": "Furniture",
+    "ProductName": "Desk",
+    "Country": "Canada",
+    "RegionName": "North America",
+    "SalesAmount": 1600.00,
+    "Quantity": 1,
+    "flag": "JSON"
+  },
+  {
+    "Month": 3,
+    "Year": 2025,
+    "CustomerName": "Emily Harris",
+    "AgeGroup": "Youth",
+    "Gender": "Female",
+    "Category": "Furniture",
+    "ProductName": "Desk",
+    "Country": "France",
+    "RegionName": "Europe",
+    "SalesAmount": 2789.65,
+    "Quantity": 5,
+    "flag": "JSON"
+  },
+  {
+    "Month": 3,
+    "Year": 2025,
+    "CustomerName": "Fatima Ahmed",
+    "AgeGroup": "Youth",
+    "Gender": "Female",
+    "Category": "Furniture",
+    "ProductName": "Desk",
+    "Country": "Germany",
+    "RegionName": "Europe",
+    "SalesAmount": 3179.36,
+    "Quantity": 2,
+    "flag": "JSON"
+  }
+]

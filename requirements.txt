@@ -1,0 +1,9 @@
+slack-bolt
+python-dotenv
+openai
+langchain
+faiss-cpu
+gradio
+pandas
+PyMuPDF
+pillow
